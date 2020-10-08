@@ -18,7 +18,7 @@ create table cliente(
 -- borrar tabla
 drop table cliente;
 
--- creacion de registros 
+-- creacion de registros en la tabla 
 insert into cliente values(null,'Juan',25,'San Vicente','M');
 insert into cliente values(null,'Carlos',23,'Sivar','M');
 insert into cliente values(null,'Jonathan',24,'San Miguel','M');
